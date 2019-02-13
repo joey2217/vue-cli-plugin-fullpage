@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-fullpage",
+  "version": "1.0.0",
+  "description": "vue fullpage plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurNing1993/vue-cli-plugin-fullpage.git"
+  },
+  "keywords": [
+    "vue-fullpage",
+    "vue-cli-plugin"
+  ],
+  "author": "Joey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BurNing1993/vue-cli-plugin-fullpage/issues"
+  },
+  "homepage": "https://github.com/BurNing1993/vue-cli-plugin-fullpage#readme"
+}
