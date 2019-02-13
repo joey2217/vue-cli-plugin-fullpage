@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-fullpage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue fullpage plugin",
   "main": "index.js",
   "scripts": {
